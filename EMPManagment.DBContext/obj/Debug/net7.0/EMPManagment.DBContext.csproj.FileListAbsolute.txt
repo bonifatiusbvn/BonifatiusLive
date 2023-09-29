@@ -1,0 +1,42 @@
+D:\Projects\EMPManegment\EMPManagment.DBContext\bin\Debug\net7.0\EMPManagment.DBContext.deps.json
+D:\Projects\EMPManegment\EMPManagment.DBContext\bin\Debug\net7.0\EMPManagment.DBContext.runtimeconfig.json
+D:\Projects\EMPManegment\EMPManagment.DBContext\bin\Debug\net7.0\EMPManagment.DBContext.dll
+D:\Projects\EMPManegment\EMPManagment.DBContext\bin\Debug\net7.0\EMPManagment.DBContext.pdb
+D:\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.csproj.AssemblyReference.cache
+D:\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.AssemblyInfoInputs.cache
+D:\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.AssemblyInfo.cs
+D:\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.csproj.CoreCompileInputs.cache
+D:\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.dll
+D:\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\refint\EMPManagment.DBContext.dll
+D:\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.pdb
+D:\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.genruntimeconfig.cache
+D:\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\ref\EMPManagment.DBContext.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManagment.DBContext\bin\Debug\net7.0\EMPManagment.DBContext.deps.json
+D:\New Projects\New folder\Projects\EMPManegment\EMPManagment.DBContext\bin\Debug\net7.0\EMPManagment.DBContext.runtimeconfig.json
+D:\New Projects\New folder\Projects\EMPManegment\EMPManagment.DBContext\bin\Debug\net7.0\EMPManagment.DBContext.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManagment.DBContext\bin\Debug\net7.0\EMPManagment.DBContext.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.csproj.AssemblyReference.cache
+D:\New Projects\New folder\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Projects\New folder\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.AssemblyInfoInputs.cache
+D:\New Projects\New folder\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.AssemblyInfo.cs
+D:\New Projects\New folder\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.csproj.CoreCompileInputs.cache
+D:\New Projects\New folder\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\refint\EMPManagment.DBContext.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.genruntimeconfig.cache
+D:\New Projects\New folder\Projects\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\ref\EMPManagment.DBContext.dll
+\\192.168.0.126\EMPManegment\EMPManagment.DBContext\bin\Debug\net7.0\EMPManagment.DBContext.deps.json
+\\192.168.0.126\EMPManegment\EMPManagment.DBContext\bin\Debug\net7.0\EMPManagment.DBContext.runtimeconfig.json
+\\192.168.0.126\EMPManegment\EMPManagment.DBContext\bin\Debug\net7.0\EMPManagment.DBContext.dll
+\\192.168.0.126\EMPManegment\EMPManagment.DBContext\bin\Debug\net7.0\EMPManagment.DBContext.pdb
+\\192.168.0.126\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.csproj.AssemblyReference.cache
+\\192.168.0.126\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.0.126\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.AssemblyInfoInputs.cache
+\\192.168.0.126\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.AssemblyInfo.cs
+\\192.168.0.126\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.csproj.CoreCompileInputs.cache
+\\192.168.0.126\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.dll
+\\192.168.0.126\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\refint\EMPManagment.DBContext.dll
+\\192.168.0.126\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.pdb
+\\192.168.0.126\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\EMPManagment.DBContext.genruntimeconfig.cache
+\\192.168.0.126\EMPManegment\EMPManagment.DBContext\obj\Debug\net7.0\ref\EMPManagment.DBContext.dll

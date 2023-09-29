@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EMPManagment.WebAPI.props" />
+</Project>

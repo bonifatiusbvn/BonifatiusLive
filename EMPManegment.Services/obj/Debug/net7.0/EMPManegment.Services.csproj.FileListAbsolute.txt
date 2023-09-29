@@ -1,0 +1,79 @@
+D:\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Services.deps.json
+D:\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Services.dll
+D:\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Services.pdb
+D:\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManagment.DBContext.dll
+D:\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.EntityModels.dll
+D:\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Inretface.dll
+D:\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Inretface.pdb
+D:\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManagment.DBContext.pdb
+D:\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.EntityModels.pdb
+D:\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.csproj.AssemblyReference.cache
+D:\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.AssemblyInfoInputs.cache
+D:\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.AssemblyInfo.cs
+D:\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.csproj.CoreCompileInputs.cache
+D:\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.csproj.CopyComplete
+D:\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.dll
+D:\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\refint\EMPManegment.Services.dll
+D:\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.pdb
+D:\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\ref\EMPManegment.Services.dll
+D:\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Repository.dll
+D:\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Repository.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.csproj.AssemblyReference.cache
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.AssemblyInfoInputs.cache
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.AssemblyInfo.cs
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.csproj.CoreCompileInputs.cache
+\\192.168.0.126\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.csproj.AssemblyReference.cache
+\\192.168.0.126\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.0.126\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.AssemblyInfoInputs.cache
+\\192.168.0.126\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.AssemblyInfo.cs
+\\192.168.0.126\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.csproj.CoreCompileInputs.cache
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Web.deps.json
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Web.runtimeconfig.json
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\appsettings.Development.json
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\appsettings.json
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Web.staticwebassets.runtime.json
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Web.exe
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Services.deps.json
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Services.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Services.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManagment.DBContext.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.EntityModels.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Inretface.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Repository.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Web.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Inretface.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Repository.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManagment.DBContext.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.EntityModels.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Web.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.csproj.CopyComplete
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\refint\EMPManegment.Services.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\ref\EMPManegment.Services.dll
+\\192.168.0.126\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\appsettings.Development.json
+\\192.168.0.126\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\appsettings.json
+\\192.168.0.126\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Web.deps.json
+\\192.168.0.126\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Web.runtimeconfig.json
+\\192.168.0.126\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Web.staticwebassets.runtime.json
+\\192.168.0.126\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Web.exe
+\\192.168.0.126\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Services.deps.json
+\\192.168.0.126\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Services.dll
+\\192.168.0.126\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Services.pdb
+\\192.168.0.126\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManagment.DBContext.dll
+\\192.168.0.126\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.EntityModels.dll
+\\192.168.0.126\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Inretface.dll
+\\192.168.0.126\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Repository.dll
+\\192.168.0.126\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Web.dll
+\\192.168.0.126\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Inretface.pdb
+\\192.168.0.126\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Repository.pdb
+\\192.168.0.126\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManagment.DBContext.pdb
+\\192.168.0.126\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.EntityModels.pdb
+\\192.168.0.126\EMPManegment\EMPManegment.Services\bin\Debug\net7.0\EMPManegment.Web.pdb
+\\192.168.0.126\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.csproj.CopyComplete
+\\192.168.0.126\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.dll
+\\192.168.0.126\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\refint\EMPManegment.Services.dll
+\\192.168.0.126\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\EMPManegment.Services.pdb
+\\192.168.0.126\EMPManegment\EMPManegment.Services\obj\Debug\net7.0\ref\EMPManegment.Services.dll

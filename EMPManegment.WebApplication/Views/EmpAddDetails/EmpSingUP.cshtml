@@ -1,0 +1,202 @@
+﻿@model EMPManegment.EntityModels.View_Model.LoginDetailsView
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+    <title>Bonifatius</title>
+    <meta charset="utf-8" />
+    <meta name="description" content="
+            The most advanced Bootstrap 5 Admin Theme with 40 unique prebuilt layouts on Themeforest trusted by 100,000 beginners and professionals. Multi-demo,
+            Dark Mode, RTL support and complete React, Angular, Vue, Asp.Net Core, Rails, Spring, Blazor, Django, Express.js, Node.js, Flask, Symfony & Laravel versions.
+            Grab your copy now and get life-time updates for free.
+        " />
+    <meta name="keywords" content="
+            metronic, bootstrap, bootstrap 5, angular, VueJs, React, Asp.Net Core, Rails, Spring, Blazor, Django, Express.js,
+            Node.js, Flask, Symfony & Laravel starter kits, admin themes, web design, figma, web development, free templates,
+            free admin themes, bootstrap theme, bootstrap template, bootstrap dashboard, bootstrap dak mode, bootstrap button,
+            bootstrap datepicker, bootstrap timepicker, fullcalendar, datatables, flaticon
+        " />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="
+            Metronic - Bootstrap Admin Template, HTML, VueJS, React, Angular. Laravel, Asp.Net Core, Ruby on Rails,
+            Spring Boot, Blazor, Django, Express.js, Node.js, Flask Admin Dashboard Theme & Template
+        " />
+    <meta property="og:url" content="https://keenthemes.com/metronic" />
+    <meta property="og:site_name" content="Keenthemes | Metronic" />
+    <link rel="canonical" href="https://preview.keenthemes.com/metronic8" />
+    <link rel="shortcut icon" href="~/demo/assets/media/logos/favicon.ico" />
+
+    <!--begin::Fonts(mandatory for all pages)-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700" />        <!--end::Fonts-->
+    <!--begin::Global Stylesheets Bundle(mandatory for all pages)-->
+    <link href="~/demo/assets/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css" />
+    <link href="~/demo/assets/css/style.bundle.css" rel="stylesheet" type="text/css" />
+    <!--end::Global Stylesheets Bundle-->
+    <!--Begin::Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    '../../../../../../www.googletagmanager.com/gtm5445.html?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5FS8GGP');</script>
+    <!--End::Google Tag Manager -->
+
+    <script>
+        // Frame-busting to prevent site from being loaded within a frame without permission (click-jacking)
+        if (window.top != window.self) {
+            window.top.location.replace(window.self.location.href);
+        }
+    </script>
+</head>
+<!--end::Head-->
+<!--begin::Body-->
+<body id="kt_body" class="auth-bg bgi-size-cover bgi-attachment-fixed bgi-position-center bgi-no-repeat">
+    <!--begin::Theme mode setup on page load-->
+    <script>
+        var defaultThemeMode = "light";
+        var themeMode;
+
+        if (document.documentElement) {
+            if (document.documentElement.hasAttribute("data-bs-theme-mode")) {
+                themeMode = document.documentElement.getAttribute("data-bs-theme-mode");
+            } else {
+                if (localStorage.getItem("data-bs-theme") !== null) {
+                    themeMode = localStorage.getItem("data-bs-theme");
+                } else {
+                    themeMode = defaultThemeMode;
+                }
+            }
+
+            if (themeMode === "system") {
+                themeMode = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+            }
+
+            document.documentElement.setAttribute("data-bs-theme", themeMode);
+        }
+    </script>
+    <!--end::Theme mode setup on page load-->
+    <!--Begin::Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FS8GGP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!--End::Google Tag Manager (noscript) -->
+    <!--begin::Main-->
+    <!--begin::Root-->
+    <div class="d-flex flex-column flex-root">
+        <!--begin::Page bg image-->
+        <style>
+            body {
+                background-image: url('~/demo/assets/media/auth/bg4.jpg');
+            }
+
+            [data-bs-theme="dark"] body {
+                background-image: url('~/demo/assets/media/auth/bg4-dark.jpg');
+            }
+        </style>
+
+        <div class="d-flex flex-column flex-column-fluid flex-lg-row">
+
+            <div class="d-flex flex-center w-lg-50 pt-15 pt-lg-15 px-10">
+                <div class="d-flex flex-center flex-lg-start flex-column">
+                    <a href="~/demo/index.html" class="mb-4">
+                        <img alt="Logo" src="~/demo/assets/media/logos/custom-3.svg" />
+                    </a>
+                </div>
+            </div>
+
+            <div class="d-flex flex-column-fluid flex-lg-row-auto justify-content-center justify-content-lg-end p-12 p-lg-20">
+
+                <div class="bg-body d-flex flex-column align-items-stretch flex-center rounded-4 w-md-600px p-20">
+                    <div class="d-flex flex-center flex-column flex-column-fluid px-lg-10 pb-15 pb-lg-20">
+                        <form class="form" method="post" enctype="multipart/form-data" asp-action="EmpSingUP" asp-controller="EmpAddDetails">
+                            <div class="text-center mb-11">
+                                <h1 class="text-dark fw-bolder mb-3">
+                                    Sign Up
+                                </h1>
+                            </div>
+
+                            <div class="fv-row mb-4">
+                                <input type="text" asp-for="EmpId" id="EmpId"  class="form-control bg-transparent" readonly value="@ViewBag.Name" />
+                            </div>
+                            <div class="fv-row mb-4" data-kt-password-meter="true">
+                                <div class="mb-1">
+                                    <div class="position-relative mb-3">
+                                        <input class="form-control bg-transparent" type="password" placeholder="Password" name="password" autocomplete="off" asp-for="Password"/>
+                                        <span class="btn btn-sm btn-icon position-absolute translate-middle top-50 end-0 me-n2" data-kt-password-meter-control="visibility">
+                                            <i class="ki-duotone ki-eye-slash fs-2"></i>                    <i class="ki-duotone ki-eye fs-2 d-none"></i>
+                                        </span>
+                                    </div>
+                                    <div class="d-flex align-items-center mb-3" data-kt-password-meter-control="highlight">
+                                        <div class="flex-grow-1 bg-secondary bg-active-success rounded h-5px me-2"></div>
+                                        <div class="flex-grow-1 bg-secondary bg-active-success rounded h-5px me-2"></div>
+                                        <div class="flex-grow-1 bg-secondary bg-active-success rounded h-5px me-2"></div>
+                                        <div class="flex-grow-1 bg-secondary bg-active-success rounded h-5px"></div>
+                                    </div>
+                                </div>
+                                <div class="text-muted">
+                                    Use 8 or more characters with a mix of letters, numbers & symbols.
+                                </div>
+                            </div>
+                            <div class="fv-row mb-4">
+                                <input type="password" placeholder="Confirm Password" asp-for="ConfirmPassword" autocomplete="off" class="form-control bg-transparent" />
+                            </div>
+                            <div class="fv-row mb-4">
+                                <select asp-for=QuestionId id="ddlQuestion" class="form-control bg-transparent">
+                                    <option>--Select Question--</option>
+                                </select>
+                                <input type="hidden" asp-for="QuestionId" id="txtquestionid" />
+                                <span asp-validation-for="QuestionId" class="text-danger"></span>
+                            </div>
+                            <div class="fv-row mb-4">
+                                <input type="text" placeholder="Answer" asp-for="Answer" autocomplete="off" class="form-control bg-transparent" />
+                            </div>
+                            <div class="fv-row mb-4">
+                                <label class="fs-8 fw-semibold form-label mt-3">Upload Image</label>
+                                <input type="file" asp-for="Image" autocomplete="off" class="form-control bg-transparent" />
+                            </div>
+                            <div class="fv-row mb-4">
+                                <label class="form-check form-check-inline">
+                                    <input checked class="form-check-input" type="checkbox" asp-for="IsActive" value="true"/>
+                                    <span class="form-check-label fw-semibold text-gray-700 fs-base ms-1">
+                                        I Accept the <a href="#" class="ms-1 link-primary">Terms</a>
+                                    </span>
+                                </label>
+                            </div>
+
+                            <div class="d-grid mb-10">
+                                <button type="submit" id="kt_sign_up_submit" class="btn btn-primary">
+                                    <span class="indicator-label">
+                                        Sign up
+                                    </span>
+                                    <span class="indicator-progress">
+                                        Please wait... <span class="spinner-border spinner-border-sm align-middle ms-2"></span>
+                                    </span>
+
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        var hostUrl = "../../../assets/index.html";</script>
+
+
+    <script src="~/demo/assets/plugins/global/plugins.bundle.js"></script>
+    <script src="~/demo/assets/js/scripts.bundle.js"></script>
+
+    <script src="~/demo/assets/js/custom/authentication/sign-up/general.js"></script>
+    <script src="~/js/employeescript.js"></script>
+</body>
+
+
+</html>

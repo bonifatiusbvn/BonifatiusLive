@@ -1,0 +1,225 @@
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\appsettings.Development.json
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\appsettings.json
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.Web.staticwebassets.runtime.json
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.Web.exe
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.Web.deps.json
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.Web.runtimeconfig.json
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.Web.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.Web.pdb
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.EntityModels.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.EntityModels.pdb
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.csproj.AssemblyReference.cache
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.AssemblyInfoInputs.cache
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.AssemblyInfo.cs
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.csproj.CoreCompileInputs.cache
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.RazorAssemblyInfo.cache
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.RazorAssemblyInfo.cs
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.EMPManegment.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.build.EMPManegment.Web.props
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EMPManegment.Web.props
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EMPManegment.Web.props
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets.build.json
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets.development.json
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\scopedcss\bundle\EMPManegment.Web.styles.css
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\scopedcss\projectbundle\EMPManegment.Web.bundle.scp.css
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.csproj.CopyComplete
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\refint\EMPManegment.Web.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.pdb
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.genruntimeconfig.cache
+D:\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\ref\EMPManegment.Web.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Azure.Core.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Azure.Identity.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManagment.DBContext.dll
+D:\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManagment.DBContext.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\appsettings.Development.json
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\appsettings.json
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.Web.staticwebassets.runtime.json
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.Web.exe
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.Web.deps.json
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.Web.runtimeconfig.json
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.Web.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.Web.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Azure.Core.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Azure.Identity.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Memory.Data.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManagment.DBContext.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.EntityModels.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManagment.DBContext.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.EntityModels.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.csproj.AssemblyReference.cache
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.AssemblyInfoInputs.cache
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.AssemblyInfo.cs
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.csproj.CoreCompileInputs.cache
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.RazorAssemblyInfo.cache
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.RazorAssemblyInfo.cs
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.EMPManegment.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.build.EMPManegment.Web.props
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EMPManegment.Web.props
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EMPManegment.Web.props
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets.pack.json
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets.build.json
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets.development.json
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\scopedcss\bundle\EMPManegment.Web.styles.css
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\scopedcss\projectbundle\EMPManegment.Web.bundle.scp.css
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.csproj.CopyComplete
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\refint\EMPManegment.Web.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.genruntimeconfig.cache
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\ref\EMPManegment.Web.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\appsettings.Development.json
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\appsettings.json
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.Web.staticwebassets.runtime.json
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.Web.exe
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.Web.deps.json
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.Web.runtimeconfig.json
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.Web.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.Web.pdb
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Azure.Core.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Azure.Identity.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\Newtonsoft.Json.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Drawing.Common.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Memory.Data.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Runtime.Caching.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Security.Permissions.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\System.Windows.Extensions.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManagment.DBContext.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.EntityModels.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManagment.DBContext.pdb
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\bin\Debug\net7.0\EMPManegment.EntityModels.pdb
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.csproj.AssemblyReference.cache
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.AssemblyInfoInputs.cache
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.AssemblyInfo.cs
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.csproj.CoreCompileInputs.cache
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.MvcApplicationPartsAssemblyInfo.cache
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.RazorAssemblyInfo.cache
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.RazorAssemblyInfo.cs
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.EMPManegment.Web.Microsoft.AspNetCore.StaticWebAssets.props
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.build.EMPManegment.Web.props
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EMPManegment.Web.props
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EMPManegment.Web.props
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets.pack.json
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets.build.json
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\staticwebassets.development.json
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\scopedcss\bundle\EMPManegment.Web.styles.css
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\scopedcss\projectbundle\EMPManegment.Web.bundle.scp.css
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.csproj.CopyComplete
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\refint\EMPManegment.Web.dll
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.pdb
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\EMPManegment.Web.genruntimeconfig.cache
+\\192.168.0.126\EMPManegment\EMPManegment.WebApplication\obj\Debug\net7.0\ref\EMPManegment.Web.dll

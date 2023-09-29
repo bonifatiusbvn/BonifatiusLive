@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+bH2N5qCDMG6tKeY6HdKLW/vKUoR9x742MqCdmW0svM=",
+  "Source": "EMPManagment.API",
+  "BasePath": "_content/EMPManagment.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

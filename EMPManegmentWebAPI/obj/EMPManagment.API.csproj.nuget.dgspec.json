@@ -1,0 +1,506 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegmentWebAPI\\EMPManagment.API.csproj": {}
+  },
+  "projects": {
+    "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManagment.DBContext\\EMPManagment.DBContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManagment.DBContext\\EMPManagment.DBContext.csproj",
+        "projectName": "EMPManagment.DBContext",
+        "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManagment.DBContext\\EMPManagment.DBContext.csproj",
+        "packagesPath": "C:\\Users\\sonuf\\.nuget\\packages\\",
+        "outputPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManagment.DBContext\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sonuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.EntityModels\\EMPManegment.EntityModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.EntityModels\\EMPManegment.EntityModels.csproj",
+        "projectName": "EMPManegment.EntityModels",
+        "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.EntityModels\\EMPManegment.EntityModels.csproj",
+        "packagesPath": "C:\\Users\\sonuf\\.nuget\\packages\\",
+        "outputPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.EntityModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sonuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Inretface\\EMPManegment.Inretface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Inretface\\EMPManegment.Inretface.csproj",
+        "projectName": "EMPManegment.Inretface",
+        "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Inretface\\EMPManegment.Inretface.csproj",
+        "packagesPath": "C:\\Users\\sonuf\\.nuget\\packages\\",
+        "outputPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Inretface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sonuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManagment.DBContext\\EMPManagment.DBContext.csproj": {
+                "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManagment.DBContext\\EMPManagment.DBContext.csproj"
+              },
+              "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.EntityModels\\EMPManegment.EntityModels.csproj": {
+                "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.EntityModels\\EMPManegment.EntityModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Repository\\EMPManegment.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Repository\\EMPManegment.Repository.csproj",
+        "projectName": "EMPManegment.Repository",
+        "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Repository\\EMPManegment.Repository.csproj",
+        "packagesPath": "C:\\Users\\sonuf\\.nuget\\packages\\",
+        "outputPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sonuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManagment.DBContext\\EMPManagment.DBContext.csproj": {
+                "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManagment.DBContext\\EMPManagment.DBContext.csproj"
+              },
+              "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Inretface\\EMPManegment.Inretface.csproj": {
+                "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Inretface\\EMPManegment.Inretface.csproj"
+              },
+              "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.WebApplication\\EMPManegment.Web.csproj": {
+                "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.WebApplication\\EMPManegment.Web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Services\\EMPManegment.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Services\\EMPManegment.Services.csproj",
+        "projectName": "EMPManegment.Services",
+        "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Services\\EMPManegment.Services.csproj",
+        "packagesPath": "C:\\Users\\sonuf\\.nuget\\packages\\",
+        "outputPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sonuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Inretface\\EMPManegment.Inretface.csproj": {
+                "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Inretface\\EMPManegment.Inretface.csproj"
+              },
+              "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Repository\\EMPManegment.Repository.csproj": {
+                "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Repository\\EMPManegment.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.WebApplication\\EMPManegment.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.WebApplication\\EMPManegment.Web.csproj",
+        "projectName": "EMPManegment.Web",
+        "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.WebApplication\\EMPManegment.Web.csproj",
+        "packagesPath": "C:\\Users\\sonuf\\.nuget\\packages\\",
+        "outputPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.WebApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sonuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManagment.DBContext\\EMPManagment.DBContext.csproj": {
+                "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManagment.DBContext\\EMPManagment.DBContext.csproj"
+              },
+              "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.EntityModels\\EMPManegment.EntityModels.csproj": {
+                "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.EntityModels\\EMPManegment.EntityModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegmentWebAPI\\EMPManagment.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegmentWebAPI\\EMPManagment.API.csproj",
+        "projectName": "EMPManagment.API",
+        "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegmentWebAPI\\EMPManagment.API.csproj",
+        "packagesPath": "C:\\Users\\sonuf\\.nuget\\packages\\",
+        "outputPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegmentWebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sonuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManagment.DBContext\\EMPManagment.DBContext.csproj": {
+                "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManagment.DBContext\\EMPManagment.DBContext.csproj"
+              },
+              "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Inretface\\EMPManegment.Inretface.csproj": {
+                "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Inretface\\EMPManegment.Inretface.csproj"
+              },
+              "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Repository\\EMPManegment.Repository.csproj": {
+                "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Repository\\EMPManegment.Repository.csproj"
+              },
+              "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Services\\EMPManegment.Services.csproj": {
+                "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.Services\\EMPManegment.Services.csproj"
+              },
+              "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.WebApplication\\EMPManegment.Web.csproj": {
+                "projectPath": "D:\\New Projects\\New folder\\Projects\\EMPManegment\\EMPManegment.WebApplication\\EMPManegment.Web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

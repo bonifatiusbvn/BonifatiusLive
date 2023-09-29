@@ -1,0 +1,35 @@
+D:\Projects\EMPManegment\EMPManegment.EntityModels\bin\Debug\net7.0\EMPManegment.EntityModels.deps.json
+D:\Projects\EMPManegment\EMPManegment.EntityModels\bin\Debug\net7.0\EMPManegment.EntityModels.dll
+D:\Projects\EMPManegment\EMPManegment.EntityModels\bin\Debug\net7.0\EMPManegment.EntityModels.pdb
+D:\Projects\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.AssemblyInfoInputs.cache
+D:\Projects\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.AssemblyInfo.cs
+D:\Projects\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.csproj.CoreCompileInputs.cache
+D:\Projects\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.dll
+D:\Projects\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\refint\EMPManegment.EntityModels.dll
+D:\Projects\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.pdb
+D:\Projects\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\ref\EMPManegment.EntityModels.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.EntityModels\bin\Debug\net7.0\EMPManegment.EntityModels.deps.json
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.EntityModels\bin\Debug\net7.0\EMPManegment.EntityModels.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.EntityModels\bin\Debug\net7.0\EMPManegment.EntityModels.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.csproj.AssemblyReference.cache
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.AssemblyInfoInputs.cache
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.AssemblyInfo.cs
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.csproj.CoreCompileInputs.cache
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\refint\EMPManegment.EntityModels.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\ref\EMPManegment.EntityModels.dll
+\\192.168.0.126\EMPManegment\EMPManegment.EntityModels\bin\Debug\net7.0\EMPManegment.EntityModels.deps.json
+\\192.168.0.126\EMPManegment\EMPManegment.EntityModels\bin\Debug\net7.0\EMPManegment.EntityModels.dll
+\\192.168.0.126\EMPManegment\EMPManegment.EntityModels\bin\Debug\net7.0\EMPManegment.EntityModels.pdb
+\\192.168.0.126\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.csproj.AssemblyReference.cache
+\\192.168.0.126\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.0.126\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.AssemblyInfoInputs.cache
+\\192.168.0.126\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.AssemblyInfo.cs
+\\192.168.0.126\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.csproj.CoreCompileInputs.cache
+\\192.168.0.126\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.dll
+\\192.168.0.126\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\refint\EMPManegment.EntityModels.dll
+\\192.168.0.126\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\EMPManegment.EntityModels.pdb
+\\192.168.0.126\EMPManegment\EMPManegment.EntityModels\obj\Debug\net7.0\ref\EMPManegment.EntityModels.dll

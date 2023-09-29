@@ -1,0 +1,51 @@
+D:\Projects\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManegment.Inretface.deps.json
+D:\Projects\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManegment.Inretface.dll
+D:\Projects\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManegment.Inretface.pdb
+D:\Projects\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManegment.EntityModels.dll
+D:\Projects\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManegment.EntityModels.pdb
+D:\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.csproj.AssemblyReference.cache
+D:\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.AssemblyInfoInputs.cache
+D:\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.AssemblyInfo.cs
+D:\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.csproj.CoreCompileInputs.cache
+D:\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.csproj.CopyComplete
+D:\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.dll
+D:\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\refint\EMPManegment.Inretface.dll
+D:\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.pdb
+D:\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\ref\EMPManegment.Inretface.dll
+D:\Projects\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManagment.DBContext.dll
+D:\Projects\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManagment.DBContext.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManegment.Inretface.deps.json
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManegment.Inretface.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManegment.Inretface.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManagment.DBContext.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManegment.EntityModels.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManagment.DBContext.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManegment.EntityModels.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.csproj.AssemblyReference.cache
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.AssemblyInfoInputs.cache
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.AssemblyInfo.cs
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.csproj.CoreCompileInputs.cache
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.csproj.CopyComplete
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\refint\EMPManegment.Inretface.dll
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.pdb
+D:\New Projects\New folder\Projects\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\ref\EMPManegment.Inretface.dll
+\\192.168.0.126\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManegment.Inretface.deps.json
+\\192.168.0.126\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManegment.Inretface.dll
+\\192.168.0.126\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManegment.Inretface.pdb
+\\192.168.0.126\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManagment.DBContext.dll
+\\192.168.0.126\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManegment.EntityModels.dll
+\\192.168.0.126\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManagment.DBContext.pdb
+\\192.168.0.126\EMPManegment\EMPManegment.Inretface\bin\Debug\net7.0\EMPManegment.EntityModels.pdb
+\\192.168.0.126\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.csproj.AssemblyReference.cache
+\\192.168.0.126\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.0.126\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.AssemblyInfoInputs.cache
+\\192.168.0.126\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.AssemblyInfo.cs
+\\192.168.0.126\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.csproj.CoreCompileInputs.cache
+\\192.168.0.126\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.csproj.CopyComplete
+\\192.168.0.126\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.dll
+\\192.168.0.126\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\refint\EMPManegment.Inretface.dll
+\\192.168.0.126\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\EMPManegment.Inretface.pdb
+\\192.168.0.126\EMPManegment\EMPManegment.Inretface\obj\Debug\net7.0\ref\EMPManegment.Inretface.dll
